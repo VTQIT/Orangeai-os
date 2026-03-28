@@ -1,0 +1,26 @@
+{
+  "name": "Orange AI OS³",
+  "short_name": "OrangeAI",
+  "description": "The OmniScient Open Source Operating System — Glassmorphism Mobile Desktop Experience",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "scope": "/"
+}
